@@ -1,0 +1,13 @@
+{
+  "name": "亳州考公·创业情报站",
+  "short_name": "亳州情报站",
+  "description": "全国·安徽·亳州三层信源聚合，考公创业双赛道，每日自动更新",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F4F4",
+  "theme_color": "#D20202",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

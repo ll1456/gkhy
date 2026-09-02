@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>亳州考公·创业情报站 · 学习强国式导航</title>
+<meta name="description" content="全国·安徽·亳州 三层信源聚合，考公创业双赛道，每日自动更新">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/app.css?v=70">
+</head><body>
+
+<header class="xg-head">
+  <div class="xg-top"><div class="xg-top__inner">
+    <div class="xg-brand">
+      <div class="xg-logo">学</div>
+      <div><div class="xg-tt">亳州考公·创业情报站</div>
+        <div class="xg-sub" id="hello"></div></div>
+      <div class="xg-meta"><span id="meta"></span><br><a href="#" id="logout" style="color:rgba(255,255,255,.85);font-size:11px">退出登录</a></div>
+    </div>
+  </div></div>
+  <div class="xg-tabs1" id="tabs1"></div>
+  <div class="xg-tabs2" id="tabs2"></div>
+  <div class="xg-subs" id="subs" hidden></div>
+</header>
+
+<main class="wrap">
+  <div class="srcfilter" id="srcfilter"></div>
+  <div class="src-cards" id="srccards"></div>
+  <div class="list-head"><span id="cnt"></span><label class="toggle-img"><input type="checkbox" id="showImg" checked> 显示配图</label></div>
+  <div class="news" id="list"></div>
+  <div class="no-result" id="empty" hidden>本频道今日暂无更新，可点击上方信源卡片直达官网查看</div>
+</main>
+
+<button class="backtop" id="backtop" title="回到顶部">↑</button>
+
+<!-- 订阅弹窗 -->
+<div class="modal" id="modal" hidden>
+  <div class="modal__box">
+    <div class="modal__tt">添加订阅信源</div>
+    <div id="f_hint" style="font-size:11.5px;color:#8A8A8A;margin-bottom:8px"></div>
+    <input id="f_name" placeholder="信源名称（如：亳州发布）">
+    <input id="f_url" placeholder="网址或公众号搜索词（https://…）">
+    <input id="f_region" placeholder="地区（国家/安徽/亳州，可留空）">
+    <div class="modal__btns"><button id="f_cancel">取消</button><button id="f_save" class="pri">保存</button></div>
+  </div>
+</div>
+
+<!-- 底部滑动导航栏（App式） -->
+<nav class="bottomnav">
+  <button data-act="home" class="on"><i>🏠</i><span>首页</span></button>
+  <button data-act="kaokao"><i>🎯</i><span>考公</span></button>
+  <button data-act="channels"><i>🏛️</i><span>频道</span></button>
+  <button data-act="chuangye"><i>💼</i><span>创业</span></button>
+  <button data-act="mine"><i>⭐</i><span>订阅</span></button>
+</nav>
+
+<footer class="ft">数据每日 07:30 / 18:00 自动更新 ｜ 北辰情报站 · 2026</footer>
+
+<script src="js/data.js?v=70"></script>
+<script src="js/app.js?v=72"></script>
+<script>navigator.serviceWorker&&navigator.serviceWorker.register('sw.js').catch(function(){});</script>
+</body></html>

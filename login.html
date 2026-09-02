@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>登录 · 亳州考公·创业情报站</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;
+ min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;
+ background:linear-gradient(150deg,#D20202 0%,#A50000 55%,#7A0000 100%);position:relative;overflow:hidden}
+body::before{content:'';position:absolute;width:520px;height:520px;border-radius:50%;
+ background:rgba(255,255,255,.06);top:-160px;right:-120px}
+body::after{content:'';position:absolute;width:380px;height:380px;border-radius:50%;
+ background:rgba(255,255,255,.05);bottom:-120px;left:-100px}
+.card{position:relative;z-index:2;width:100%;max-width:380px;background:#fff;border-radius:18px;
+ padding:34px 28px 28px;box-shadow:0 18px 50px rgba(0,0,0,.35)}
+.brand{display:flex;align-items:center;gap:12px;justify-content:center;margin-bottom:6px}
+.logo{width:52px;height:52px;border-radius:14px;background:linear-gradient(135deg,#D20202,#A50000);
+ color:#fff;display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:700}
+.tt{font-size:20px;font-weight:700;color:#262626}
+.sub{font-size:12.5px;color:#8A8A8A;text-align:center;margin-bottom:22px}
+.tabs{display:flex;border-bottom:1px solid #EAEAEA;margin-bottom:18px}
+.tabs button{flex:1;background:none;border:none;padding:10px 0;font-size:15px;color:#8A8A8A;cursor:pointer;border-bottom:2px solid transparent}
+.tabs button.on{color:#D20202;border-bottom-color:#D20202;font-weight:600}
+input{width:100%;border:1px solid #EAEAEA;border-radius:10px;padding:12px 14px;font-size:14.5px;margin-bottom:12px;outline:none}
+input:focus{border-color:#D20202}
+.btn{width:100%;border:none;border-radius:10px;padding:13px;font-size:16px;font-weight:600;
+ background:linear-gradient(135deg,#D20202,#B00000);color:#fff;cursor:pointer;margin-top:6px}
+.btn:active{opacity:.85}
+.guest{width:100%;border:1px solid #E8C9C9;border-radius:10px;padding:12px;font-size:14.5px;
+ background:#FFF7F7;color:#B00000;cursor:pointer;margin-top:2px}
+.guest:active{background:#FFECEC}
+.tip{font-size:12px;color:#B00000;text-align:center;min-height:18px;margin-top:8px}
+.agree{font-size:11.5px;color:#8A8A8A;text-align:center;margin-top:12px;line-height:1.5}
+.foot{position:absolute;bottom:16px;left:0;right:0;text-align:center;color:rgba(255,255,255,.75);font-size:11.5px;z-index:2}
+</style></head><body>
+
+<div class="card">
+  <div class="brand"><div class="logo">学</div><div class="tt">亳州考公·创业情报站</div></div>
+  <div class="sub">全国 · 安徽 · 亳州 ｜ 招考 · 时政 · 商机 一手直达</div>
+  <div class="tabs">
+    <button id="tabLogin" class="on">登录</button>
+    <button id="tabReg">注册</button>
+  </div>
+  <input id="user" placeholder="账号（手机号或用户名）" autocomplete="username">
+  <input id="pass" type="password" placeholder="密码（≥6位）" autocomplete="current-password">
+  <button class="btn" id="go">登 录</button>
+  <div class="tip" id="tip"></div>
+  <button class="guest" id="guest">🔍 不注册了，先逛逛（游客模式）</button>
+  <div class="agree">本站为本地演示级鉴权：账号密码仅保存在本设备浏览器中。<br>正式部署时将接入服务端验证与短信登录。</div>
+</div>
+<div class="foot">北辰情报站 · 数据每日 07:30 / 18:00 自动更新</div>
+
+<script>
+(function(){
+'use strict';
+var lsOK = true;
+try{ localStorage.setItem('__t','1'); localStorage.removeItem('__t'); }catch(e){ lsOK = false; }
+function users(){ if(!lsOK) return {}; try{ return JSON.parse(localStorage.getItem('bz_users')||'{}'); }catch(e){ return {}; } }
+// 已登录直接进
+if(lsOK && localStorage.getItem('bz_auth')){ location.href='index.html'; return; }
+// 无任何注册用户 → 默认注册模式，降低新用户门槛
+var mode = Object.keys(users()).length ? 'login' : 'reg';
+var tabL = document.getElementById('tabLogin'), tabR = document.getElementById('tabReg');
+var go = document.getElementById('go');
+function paint(){
+  tabL.classList.toggle('on', mode==='login');
+  tabR.classList.toggle('on', mode==='reg');
+  go.textContent = mode==='login' ? '登 录' : '注 册';
+}
+tabL.onclick = function(){ mode='login'; paint(); };
+tabR.onclick = function(){ mode='reg'; paint(); };
+paint();
+go.onclick = function(){
+  var tip = document.getElementById('tip');
+  var u = document.getElementById('user').value.trim();
+  var p = document.getElementById('pass').value;
+  if(!lsOK){ location.href='index.html'; return; }  // 受限环境直接放行
+  if(!u || p.length < 6){ tip.textContent = '请输入账号，密码至少6位'; return; }
+  var db = users();
+  if(mode === 'reg'){
+    if(db[u]){ tip.textContent = '该账号已注册，请直接登录'; return; }
+    db[u] = p; localStorage.setItem('bz_users', JSON.stringify(db));
+    localStorage.setItem('bz_auth', JSON.stringify({user:u, ts:Date.now()}));
+    location.href = 'index.html';
+  } else {
+    if(!db[u]){ tip.textContent = '账号不存在，请点上方「注册」或用游客模式进入'; return; }
+    if(db[u] !== p){ tip.textContent = '密码错误，请重试'; return; }
+    localStorage.setItem('bz_auth', JSON.stringify({user:u, ts:Date.now()}));
+    location.href = 'index.html';
+  }
+};
+// 游客模式：写会话即进（受限环境 index 侧已做降级放行）
+document.getElementById('guest').onclick = function(){
+  if(lsOK) localStorage.setItem('bz_auth', JSON.stringify({user:'游客', ts:Date.now()}));
+  location.href = 'index.html';
+};
+document.getElementById('pass').addEventListener('keydown', function(e){ if(e.key==='Enter') go.click(); });
+})();
+</script>
+</body></html>

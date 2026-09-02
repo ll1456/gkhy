@@ -1,0 +1,2616 @@
+{
+ "generated_at": "2026-09-02 22:10",
+ "total": 205,
+ "tree": {
+  "考公招录": {
+   "亳州市人社局": {
+    "items": [
+     {
+      "title": "2026年度亳州市市直机关公开遴选公务员公告（38名，9月4日18:00报名截止）",
+      "url": "https://rsj.bozhou.gov.cn/News/show/725650.html",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "干部队伍建设·公开遴选制度",
+       "business": "遴选冲刺培训+考务配套服务"
+      },
+      "star": 1,
+      "deadline": "2026-09-04 18:00",
+      "summary": "遴选38名一级主任科员以下职级公务员。报名8月30日9:00至9月4日18:00；资格审查至9月7日16:00；缴费9月8日12:00前；准考证9月17-18日；笔试9月19日上午8:30-11:30"
+     },
+     {
+      "title": "关于亳州职业技术学院2026年度公开招聘博士研究生应聘人员专业测试成绩及入围体检人选的公告",
+      "url": "https://rsj.bozhou.gov.cn/News/show/725895.html",
+      "date": "2026-08-31",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "人才强国·职业教育",
+       "business": "高层次人才落地配套服务"
+      },
+      "summary": "博士研究生招聘进入体检环节，本地高校持续引才。"
+     },
+     {
+      "title": "关于亳州市全日制普通院校毕业生初次认定职称的通知",
+      "url": "https://rsj.bozhou.gov.cn/News/show/725889.html",
+      "date": "2026-08-31",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "人才评价机制改革·破四唯",
+       "business": "职称申报代理、继续教育培训"
+      },
+      "summary": "全日制普通院校毕业生可直接初次认定职称。"
+     },
+     {
+      "title": "关于做好2026年度全市职称评审工作的通知",
+      "url": "https://rsj.bozhou.gov.cn/News/show/725610.html",
+      "date": "2026-08-27",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "人才评价机制改革",
+       "business": "职称申报代理与继续教育"
+      },
+      "summary": "亳州2026年度职称评审工作部署。"
+     },
+     {
+      "title": "亳州市社会评价组织再评估遴选结果公示",
+      "url": "https://rsj.bozhou.gov.cn/News/show/725960.html",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "技能人才评价·放管服改革",
+       "business": "入选机构可开展职业技能等级认定并承接政府补贴培训"
+      },
+      "star": 1,
+      "summary": "亳州本日唯一新增公告。社会评价组织（职业技能等级认定机构）再评估遴选结果。"
+     }
+    ]
+   },
+   "安徽省退役军人事务厅": {
+    "items": [
+     {
+      "title": "2026年下半年安徽省退役军人事务厅所属事业单位公开招聘工作人员公告（4名）",
+      "url": "https://dva.ah.gov.cn/gk/tzgg/80810989.html",
+      "date": "2026-08-27",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "退役军人就业创业·事业单位公开招聘",
+       "business": "退役军人专项备考辅导"
+      },
+      "star": 1,
+      "deadline": "2026-09-11 18:00",
+      "summary": "招聘4名。报名9月7日9:00至9月11日18:00；资格审查9月14日16:00前；缴费9月15日18:00前；准考证10月14-16日；笔试10月17日（周六）8:30-10:00职测、10:00"
+     }
+    ]
+   },
+   "安徽省人社厅·省属高校": {
+    "items": [
+     {
+      "title": "安徽广播影视职业技术学院2026年度博士人才招聘公告",
+      "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/ssgxgkzp/80811168.html",
+      "date": "2026-08-31",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "职业教育·文化人才队伍",
+       "business": "影视后期、短视频代运营"
+      },
+      "summary": "省属高校栏目08-31新增条目，需子栏目下钻才能发现。"
+     },
+     {
+      "title": "2026年下半年黄山学院公开招聘工作人员公告",
+      "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/ssgxgkzp/80811017.html",
+      "date": "2026-08-27",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "高等教育·地方高校发展",
+       "business": "高校后勤、校园商业配套"
+      },
+      "summary": "省属高校招聘。"
+     }
+    ]
+   },
+   "安徽省人社厅·省直": {
+    "items": [
+     {
+      "title": "2026年下半年安徽省科学技术情报研究所（省科学技术档案馆）公开招聘工作人员公告",
+      "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahssydwgkzp/80811019.html",
+      "date": "2026-08-27",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "科技支撑·事业单位招录",
+       "business": "科技情报/查新/知识产权信息服务外包"
+      },
+      "summary": "省直事业单位招聘。"
+     },
+     {
+      "title": "2026年下半年安徽省交通运输厅所属事业单位公开招聘工作人员公告",
+      "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahssydwgkzp/80811018.html",
+      "date": "2026-08-27",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "交通强国·基础设施",
+       "business": "交通基建配套"
+      },
+      "summary": "省直事业单位招聘。"
+     },
+     {
+      "title": "2026年下半年安徽省人民政府外事办公室所属事业单位公开招聘工作人员公告",
+      "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahssydwgkzp/80811016.html",
+      "date": "2026-08-27",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "对外开放·外事工作",
+       "business": "涉外翻译、外事接待"
+      },
+      "summary": "省直事业单位招聘。"
+     },
+     {
+      "title": "2026年下半年安徽省民族宗教事务委员会直属事业单位公开招聘工作人员公告",
+      "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahssydwgkzp/80811015.html",
+      "date": "2026-08-27",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "民族团结·铸牢中华民族共同体意识",
+       "business": "民族特色产品品牌化"
+      },
+      "summary": "省直事业单位招聘。"
+     },
+     {
+      "title": "2026年下半年安徽省人力资源和社会保障厅所属事业单位公开招聘工作人员公告",
+      "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahssydwgkzp/80810994.html",
+      "date": "2026-08-27",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "人社公共服务·就业优先",
+       "business": "人力资源服务外包"
+      },
+      "summary": "省直事业单位招聘。"
+     }
+    ]
+   },
+   "安徽省人社厅·各市省直管县": {
+    "items": [
+     {
+      "title": "关键情报复核：亳州仍不在2026年度各市事业单位统一招聘批次内",
+      "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/index.html",
+      "date": "2026-09-01",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "招录情报",
+       "business": "招录监控策略"
+      },
+      "star": 1,
+      "summary": "2026-02-02批次共15个市，独缺亳州。亳州最新一条仍是2025年下半年公告（2025-09-11）。必须单独盯亳州市人社局。"
+     }
+    ]
+   },
+   "中国新闻网": {
+    "items": [
+     {
+      "title": "事业单位招聘存在高分断层情况？吉林白城通报",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687517.shtml",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "事业单位公开招聘公信力·考试公平",
+       "business": "与亳州遴选同主题，面试可能考"
+      },
+      "summary": "事业单位招聘公信力事件通报。"
+     }
+    ]
+   },
+   "安徽省人社厅": {
+    "items": [
+     {
+      "title": "关于同意鲍琼琳等530名同志取得卫生系列高级专业技术资格的函",
+      "url": "https://hrss.ah.gov.cn/zxzx/gsgg/80811145.html",
+      "date": "2026-08-31",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "人才评价",
+       "business": "医护人员继续教育、职称申报辅导"
+      },
+      "summary": "卫生系列高级职称资格。"
+     }
+    ]
+   },
+   "公众号·阿安资料": {
+    "items": [
+     {
+      "title": "2026年亳州市公务员及事业单位招聘岗位表合集（市直+三县一区）",
+      "url": "https://wx.sogou.com/weixin?type=2&query=亳州岗位表",
+      "date": "2026-09-02",
+      "region": "亳州"
+     }
+    ]
+   }
+  },
+  "外交国际": {
+   "中国政府网·要闻": {
+    "items": [
+     {
+      "title": "习近平致电祝贺挪威国王哈康八世即位",
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080001.htm",
+      "date": "2026-09-02",
+      "region": "国家",
+      "meta": {
+       "shenlun": "礼宾常识·国家元首外交",
+       "business": ""
+      },
+      "summary": "礼节性致电，了解即可。"
+     },
+     {
+      "title": "上海合作组织二十五周年比什凯克宣言",
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079917.htm",
+      "date": "2026-09-01",
+      "region": "国家",
+      "meta": {
+       "shenlun": "多边主义·上海合作组织（时政必背：上合25周年节点）",
+       "business": ""
+      },
+      "star": 4,
+      "summary": "上合组织成员国元首理事会发表二十五周年比什凯克宣言，多边主义与中国主张。"
+     },
+     {
+      "title": "习近平抵达开罗对埃及进行国事访问",
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079944.htm",
+      "date": "2026-09-02",
+      "region": "国家",
+      "meta": {
+       "shenlun": "中国特色大国外交·中阿命运共同体（申论热点：一带一路文明互鉴）",
+       "business": "中埃合作概念下的中医药、基建出海题材"
+      },
+      "star": 4,
+      "summary": "习近平主席抵达埃及开罗进行国事访问并发表书面讲话，中埃关系进入新阶段。"
+     },
+     {
+      "title": "习近平在埃及媒体发表署名文章",
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079769.htm",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "元首外交·中阿中非合作",
+       "business": "苏伊士经贸区是亳药进中东非洲跳板"
+      },
+      "summary": "习近平在对埃及进行国事访问之际于埃及媒体发表署名文章。"
+     },
+     {
+      "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079759.htm",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "人类命运共同体·一带一路",
+       "business": "中药材中亚出口通道"
+      },
+      "star": 1,
+      "summary": "中吉发表联合宣言。"
+     },
+     {
+      "title": "中华人民共和国和吉尔吉斯共和国永久睦邻友好合作条约",
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079758.htm",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "亲诚惠容·周边外交理念",
+       "business": "降低跨境贸易政策风险"
+      },
+      "star": 1,
+      "summary": "以条约形式固化两国永久睦邻友好关系。"
+     },
+     {
+      "title": "习近平会见俄罗斯总统普京",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079736.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "中俄新时代全面战略协作伙伴关系",
+       "business": "中俄能源农产品贸易"
+      },
+      "summary": "中俄元首会晤。"
+     },
+     {
+      "title": "习近平会见蒙古国总统呼日勒苏赫",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079734.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "周边外交·中蒙关系",
+       "business": "中蒙俄经济走廊物流"
+      },
+      "summary": "中蒙元首会晤。"
+     },
+     {
+      "title": "习近平会见乌兹别克斯坦总统米尔济约耶夫",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079731.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "一带一路·中亚合作",
+       "business": "中吉乌铁路物流"
+      },
+      "summary": "中乌元首会晤。"
+     },
+     {
+      "title": "习近平同吉尔吉斯斯坦总统扎帕罗夫会谈",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079657.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "元首外交·命运共同体",
+       "business": "中亚经贸对接"
+      },
+      "summary": "中吉元首会谈。"
+     },
+     {
+      "title": "丁薛祥将赴俄罗斯出席第十一届东方经济论坛并举行中俄投资、能源合作系列会议",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079663.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "中俄能源合作",
+       "business": "对俄远东贸易、能源设备服务"
+      },
+      "summary": "中俄投资、能源合作系列会议。"
+     },
+     {
+      "title": "彭丽媛同吉尔吉斯斯坦总统夫人扎帕罗娃参观吉尔吉斯共和国国家历史博物馆",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079684.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "人文交流·公共外交",
+       "business": "低"
+      },
+      "summary": "公共外交活动。"
+     }
+    ]
+   },
+   "人民网·时政": {
+    "items": [
+     {
+      "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议",
+      "url": "https://politics.people.com.cn/n1/2026/0901/c1024-40790333.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "上海精神·多边主义·全球治理",
+       "business": "上合框架下中医药农业合作"
+      },
+      "star": 1,
+      "summary": "上合峰会元首理事会第二十六次会议。"
+     },
+     {
+      "title": "习近平同吉尔吉斯斯坦总统扎帕罗夫会谈",
+      "url": "https://politics.people.com.cn/n1/2026/0901/c1024-40789768.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "元首外交·互利共赢",
+       "business": "中亚农产品进口与亳州药材出口双向贸易"
+      },
+      "summary": "中吉元首会谈。"
+     },
+     {
+      "title": "风雨同舟七十载，踔厉奋发新征程（中吉建交70周年）",
+      "url": "https://politics.people.com.cn/n1/2026/0901/c1024-40789769.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "外交史·双边关系",
+       "business": "周年节点经贸对接会机会"
+      },
+      "summary": "中吉建交70周年。"
+     }
+    ]
+   },
+   "中国政府网·政务联播": {
+    "items": [
+     {
+      "title": "外交部介绍亚太经合组织第三次高官会成果",
+      "url": "https://www.gov.cn/lianbo/202608/content_7079717.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "亚太经合组织·区域经济一体化",
+       "business": "APEC中小企业出海服务"
+      },
+      "summary": "APEC第三次高官会成果。"
+     },
+     {
+      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助",
+      "url": "https://www.gov.cn/lianbo/202608/content_7079563.htm",
+      "date": "2026-08-30",
+      "region": "全国",
+      "meta": {
+       "shenlun": "人类命运共同体·国际人道主义援助",
+       "business": "低"
+      },
+      "summary": "对尼泊尔紧急人道主义援助。"
+     }
+    ]
+   }
+  },
+  "政治与法治": {
+   "人民网·时政": {
+    "items": [
+     {
+      "title": "赵乐际同奥地利国民议会议长罗森克兰茨会谈",
+      "url": "https://politics.people.com.cn/n1/2026/0901/c1024-40789759.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "人大对外交往·议会外交",
+       "business": "中欧精密制造绿色技术对接"
+      },
+      "summary": "全国人大常委会委员长同奥地利议长会谈。"
+     },
+     {
+      "title": "王沪宁会见奥地利国民议会议长罗森克兰茨",
+      "url": "https://politics.people.com.cn/n1/2026/0901/c1024-40789758.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "人民政协对外交往·协商民主",
+       "business": "低"
+      },
+      "summary": "全国政协主席会见奥地利国民议会议长。"
+     },
+     {
+      "title": "十四届全国人大常委会第二十四次会议在京闭幕",
+      "url": "https://politics.people.com.cn/n1/2026/0829/c1024-40788325.html",
+      "date": "2026-08-29",
+      "region": "全国",
+      "meta": {
+       "shenlun": "人民代表大会制度·立法",
+       "business": "低"
+      },
+      "summary": "全国人大常委会会议闭幕。"
+     },
+     {
+      "title": "深入学习贯彻习近平法治思想 适应改革发展需要 着力提高立法质量",
+      "url": "https://politics.people.com.cn/n1/2026/0829/c1024-40788328.html",
+      "date": "2026-08-29",
+      "region": "全国",
+      "meta": {
+       "shenlun": "习近平法治思想·全面依法治国",
+       "business": "企业法律合规服务"
+      },
+      "summary": "赵乐际在闭幕会讲话。"
+     }
+    ]
+   },
+   "中国新闻网": {
+    "items": [
+     {
+      "title": "吉隆泥石流灾害哀悼活动在西藏吉隆举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687674.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "人民至上生命至上·应急管理",
+       "business": "应急装备、地质灾害监测预警"
+      },
+      "summary": "西藏吉隆泥石流灾害哀悼活动。"
+     },
+     {
+      "title": "台风沙德尔复活 南方多地持续强降雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687762.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "防灾减灾救灾·气象服务",
+       "business": "防汛物资、农业保险理赔"
+      },
+      "summary": "台风沙德尔再度加强，南方多地强降雨。"
+     }
+    ]
+   },
+   "中国政府网·图解政策": {
+    "items": [
+     {
+      "title": "2026年9月1日起 一批国家标准开始实施（图解）",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7079814.htm",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "标准化战略·质量基础设施",
+       "business": "贯标咨询、检测认证"
+      },
+      "summary": "一批国家标准自9月1日起实施。"
+     }
+    ]
+   },
+   "中国政府网·要闻": {
+    "items": [
+     {
+      "title": "国务院任免国家工作人员（2026年9月2日）",
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080015.htm",
+      "date": "2026-09-02",
+      "region": "国家",
+      "meta": {
+       "shenlun": "国务院组织机构·人事任免制度（常识高频考点）",
+       "business": ""
+      },
+      "star": 5,
+      "summary": "国务院发布最新任免名单。人事任免为公考常识模块高频考点，注意涉及部委及其新任负责人。"
+     },
+     {
+      "title": "习近平：坚持落实管党治党政治责任",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079655.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "全面从严治党",
+       "business": "党建数字化、基层党务培训"
+      },
+      "star": 1,
+      "summary": "习近平总书记关于管党治党政治责任的重要论述。"
+     },
+     {
+      "title": "《求是》杂志发表习近平总书记重要文章《坚持落实管党治党政治责任》",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079651.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "重要文献·理论积累",
+       "business": "理论宣讲、政企党建培训"
+      },
+      "summary": "《求是》刊发重要文章。"
+     },
+     {
+      "title": "李强主持召开国务院常务会议",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079712.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "国务院常务会议·人民至上",
+       "business": "应急物资储备、救援装备"
+      },
+      "summary": "学习贯彻习近平总书记关于西藏吉隆泥石流抢险救援重要讲话精神。"
+     }
+    ]
+   },
+   "中国政府网·政务联播": {
+    "items": [
+     {
+      "title": "9月1日起 一批国家标准开始实施",
+      "url": "https://www.gov.cn/lianbo/202608/content_7079725.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "标准化",
+       "business": "贯标咨询、检测认证"
+      },
+      "summary": "一批国家标准实施。"
+     },
+     {
+      "title": "调集专业力量 持续搜索排查",
+      "url": "https://www.gov.cn/lianbo/202608/content_7079614.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "人民至上·抢险救援",
+       "business": "生命探测仪、无人机搜救"
+      },
+      "summary": "西藏吉隆泥石流抢险救援持续推进。"
+     },
+     {
+      "title": "集结力量 全力以赴 扎实做好西藏吉隆泥石流灾害抢险救援各项工作",
+      "url": "https://www.gov.cn/lianbo/202608/content_7079551.htm",
+      "date": "2026-08-30",
+      "region": "全国",
+      "meta": {
+       "shenlun": "应急管理体系和能力现代化",
+       "business": "应急装备"
+      },
+      "summary": "抢险救援部署。"
+     }
+    ]
+   },
+   "安徽省政府·安徽要闻": {
+    "items": [
+     {
+      "title": "王清宪主持召开省政府第112次常务会议",
+      "url": "https://www.ah.gov.cn/zwyw/ztzl/szfcwhy/syssytgnxzdsxx/2026n/565536501.html",
+      "date": "2026-09-02",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "省政府议事规则·常务会议制度",
+       "business": ""
+      },
+      "summary": "省长王清宪主持省政府常务会议，审议多项政策文件（速览议题方向）。"
+     },
+     {
+      "title": "深入学习贯彻习近平总书记重要指示 巩固拓展学习教育成果奋力谱写中国式现代化安徽篇章",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565538181.html",
+      "date": "2026-09-01",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "党的建设·中国式现代化地方实践",
+       "business": "党建培训、理论宣讲服务"
+      },
+      "summary": "省委常委会扩大会议暨省委党的建设工作领导小组会议，梁言顺主持并讲话。"
+     }
+    ]
+   },
+   "亳州视听网": {
+    "items": [
+     {
+      "title": "亳州市开展电梯安全专项检查 护航药博会",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "安全生产·特种设备监管",
+       "business": "电梯维保、特种设备检测"
+      },
+      "summary": "药博会前电梯安全专项检查。"
+     },
+     {
+      "title": "直击小区火灾隐患！严查电动车飞线充电、入户停放",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "消防安全·基层治理·城市安全运行",
+       "business": "小区集中充电设施建设、电动自行车换电柜"
+      },
+      "star": 1,
+      "summary": "亳州严查电动自行车违规充电停放。"
+     },
+     {
+      "title": "五届市委全面深化改革委员会第十二次会议召开",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-08-31",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "全面深化改革·地方改革探索",
+       "business": "改革任务承接服务（政策咨询、第三方评估）"
+      },
+      "summary": "市委深改委会议。"
+     },
+     {
+      "title": "汪继宏调研基层应急消防一体化建设工作",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-08-31",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "应急管理体系和能力现代化·基层治理",
+       "business": "镇村消防站点建设、装备采购、专职消防员培训"
+      },
+      "star": 1,
+      "summary": "市长调研基层应急消防一体化。"
+     }
+    ]
+   },
+   "亳州新闻网·要闻": {
+    "items": [
+     {
+      "title": "市五届人大常委会第四十四次会议召开",
+      "url": "http://www.bozhou.cn/yaowen/p/400914.html",
+      "date": "2026-09-02",
+      "region": "亳州"
+     }
+    ]
+   },
+   "利辛县政府网": {
+    "items": [
+     {
+      "title": "利辛：县委理论学习中心组学习会议召开",
+      "url": "https://www.lixin.gov.cn/News/show/725715.html",
+      "date": "2026-09-02",
+      "region": "亳州"
+     }
+    ]
+   },
+   "安徽先锋网": {
+    "items": [
+     {
+      "title": "习近平：坚持落实管党治党政治责任",
+      "url": "https://www.ahxf.gov.cn/Home/Content?Id=1192398&ClassId=231",
+      "date": "2026-09-02",
+      "region": "全国"
+     }
+    ]
+   },
+   "亳州市司法局": {
+    "items": [
+     {
+      "title": "亳州市司法局下沉一线点评执法案件",
+      "url": "https://sfj.bozhou.gov.cn//News/show/725866.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "严格规范公正文明执法",
+       "business": "法律咨询、合规服务、普法内容"
+      },
+      "summary": ""
+     }
+    ]
+   },
+   "法治日报": {
+    "items": [
+     {
+      "title": "埃及总统夫妇赴机场热情迎接",
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-09/02/content_9450845.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "法治政府建设·执法监督机制",
+       "business": "法律咨询、合规服务、普法内容"
+      },
+      "summary": ""
+     },
+     {
+      "title": "习近平抵达开罗对埃及进行国事访问",
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-09/02/content_9450842.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "法治政府建设·执法监督机制",
+       "business": "法律咨询、合规服务、普法内容"
+      },
+      "summary": ""
+     },
+     {
+      "title": "习近平出席埃及总统塞西举行的欢迎仪式",
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-09/02/content_9451134.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "法治政府建设·执法监督机制",
+       "business": "法律咨询、合规服务、普法内容"
+      },
+      "summary": ""
+     }
+    ]
+   },
+   "共产党员网": {
+    "items": [
+     {
+      "title": "学习贯彻党的二十届四中全会精神",
+      "url": "https://www.12371.cn/special/20jsizqh/",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "树立和践行正确政绩观（党课高频主题）",
+       "business": "党建数字化、红色教育研学"
+      },
+      "summary": ""
+     },
+     {
+      "title": "学习贯彻习近平新时代中国特色社会主义思想",
+      "url": "https://www.12371.cn/special/xxzd/",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "树立和践行正确政绩观（党课高频主题）",
+       "business": "党建数字化、红色教育研学"
+      },
+      "summary": ""
+     },
+     {
+      "title": "树立和践行正确政绩观",
+      "url": "https://search.12371.cn/search.php?t=newsmerge&client=no&q=%E6%A0%91%E7%AB%8B%E5%92%8C%E8%B7%B5%E8%A1%8C%E6%AD%A3%E7%A1%AE%E6%94%BF%E7%BB%A9%E8%A7%82",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "树立和践行正确政绩观（党课高频主题）",
+       "business": "党建数字化、红色教育研学"
+      },
+      "summary": ""
+     }
+    ]
+   }
+  },
+  "经济金融": {
+   "中国政府网·政务联播": {
+    "items": [
+     {
+      "title": "8月份制造业PMI为49.8% 制造业运行回稳",
+      "url": "https://www.gov.cn/lianbo/202609/content_7079803.htm",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "宏观经济形势·制造业高质量发展",
+       "business": "PMI回升预示订单回暖"
+      },
+      "star": 1,
+      "summary": "8月制造业采购经理指数49.8%，较上月上升，景气水平改善。"
+     },
+     {
+      "title": "7部门发文推动商品消费扩容升级",
+      "url": "https://www.gov.cn/lianbo/202608/content_7079699.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "消费扩容升级",
+       "business": "同上"
+      },
+      "summary": "政策解读稿。"
+     }
+    ]
+   },
+   "中国政府网·要闻": {
+    "items": [
+     {
+      "title": "今年以来消费品以旧换新带动销售额超1.54万亿元",
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079762.htm",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "扩大内需·促消费政策",
+       "business": "家电汽车回收拆解、二手流通县域下沉"
+      },
+      "star": 1,
+      "summary": "以旧换新政策带动销售额超1.54万亿元。"
+     }
+    ]
+   },
+   "中国新闻网": {
+    "items": [
+     {
+      "title": "2025年中国与东盟双边贸易额首次突破万亿美元大关",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-01/10687644.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "高水平对外开放·RCEP",
+       "business": "RCEP框架下中药材东盟出口"
+      },
+      "star": 1,
+      "summary": "中国东盟贸易额首破万亿美元。"
+     }
+    ]
+   },
+   "中国政府网·政策库": {
+    "items": [
+     {
+      "title": "商务部等7部门关于推动商品消费扩容升级的实施意见",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202608/content_7079705.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "扩大内需·促消费（重大政策文件）",
+       "business": "县域消费场景改造、家电下乡承接"
+      },
+      "star": 1,
+      "summary": "7部门联合发文推动商品消费扩容升级。"
+     }
+    ]
+   },
+   "中国政府网·政策解读": {
+    "items": [
+     {
+      "title": "两部门有关负责人解读《物流网建设实施方案》",
+      "url": "https://www.gov.cn/zhengce/202608/content_7079472.htm",
+      "date": "2026-08-28",
+      "region": "全国",
+      "meta": {
+       "shenlun": "现代物流体系·全国统一大市场",
+       "business": "中药材冷链物流——亳州最大物流缺口"
+      },
+      "star": 1,
+      "summary": "国家发改委、交通运输部联合印发，经国务院同意。"
+     }
+    ]
+   },
+   "安徽省政府·安徽要闻": {
+    "items": [
+     {
+      "title": "安徽省人民政府办公厅印发《安徽省加快数智供应链发展行动方案》",
+      "url": "https://www.ah.gov.cn/public/1681/565533121.html",
+      "date": "2026-09-02",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "新质生产力·现代流通体系（经济类申论高频）",
+       "business": "数智供应链改造、物流数字化、亳州中药材供应链平台对标申报窗口"
+      },
+      "star": 4,
+      "summary": "省政府办公厅印发行动方案，配套一图读懂同步发布。供应链数字化是中小企业切入政府项目的可行赛道。"
+     },
+     {
+      "title": "直播进田间 特产出山村",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565538221.html",
+      "date": "2026-09-01",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "数字乡村·电商助农",
+       "business": "农产品直播电商"
+      },
+      "summary": "农产品直播电商助农。"
+     },
+     {
+      "title": "蚌埠延安路大桥冲刺合龙",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565538231.html",
+      "date": "2026-09-01",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "基础设施建设·区域协调",
+       "business": "基建配套（检测、监理、建材）"
+      },
+      "summary": "重点基建工程进展。"
+     },
+     {
+      "title": "大额消费迎来政策红利",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565538031.html",
+      "date": "2026-08-31",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "扩大内需·促消费",
+       "business": "消费券承接、以旧换新县域服务商"
+      },
+      "summary": "安徽促消费政策。"
+     },
+     {
+      "title": "从纸上到账上 惠企政策高效落地",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565537971.html",
+      "date": "2026-08-31",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "优化营商环境·为企服务",
+       "business": "企业政策申报代理服务"
+      },
+      "star": 1,
+      "summary": "安徽惠企政策落地成效。"
+     },
+     {
+      "title": "专场对接会助力新材料产业并购重组",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565537961.html",
+      "date": "2026-08-31",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "产业升级·资本市场",
+       "business": "中药材提取物、药用辅料并购标的对接"
+      },
+      "summary": "新材料产业并购重组对接。"
+     },
+     {
+      "title": "园播联动打通产销链路",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565537911.html",
+      "date": "2026-08-30",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "农产品流通·电商助农",
+       "business": "园区直播基地运营、农产品上行代运营"
+      },
+      "summary": "园区+直播打通农产品产销。"
+     },
+     {
+      "title": "点石成镁，逐梦千亿赛道",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565537891.html",
+      "date": "2026-08-30",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "新兴产业·资源型产业转型",
+       "business": "镁基新材料下游应用"
+      },
+      "summary": "镁基新材料产业发展。"
+     },
+     {
+      "title": "高质量一体化推进共建任务",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565537841.html",
+      "date": "2026-08-29",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "长三角一体化发展·区域协调发展",
+       "business": "长三角产业转移承接服务"
+      },
+      "summary": "长三角一体化共建任务。"
+     }
+    ]
+   },
+   "亳州视听网": {
+    "items": [
+     {
+      "title": "倒计时！亳州药博会布展全力冲刺，5万㎡超大展区即将亮相",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "中医药传承创新·会展经济",
+       "business": "展位搭建、会务接待、翻译、直播带货"
+      },
+      "star": 1,
+      "summary": "2026国际（亳州）中医药博览会9月7日—10月7日，开幕式9月9日。"
+     },
+     {
+      "title": "秦凤玉率队拜访中国中医科学院并在京开展科技招商",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-08-31",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "中医药传承创新·科技招商·皖北振兴",
+       "business": "中药科技成果转化——中试放大、药材标准化种植、药食同源"
+      },
+      "star": 1,
+      "summary": "亳州中医药科技招商。"
+     },
+     {
+      "title": "秦凤玉会见中国石油安徽公司党委书记游忠华、总经理郑岩一行",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-08-31",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "央地合作·招商引资",
+       "business": "央企合作配套（能源供应、服务区商业）"
+      },
+      "summary": "央地合作洽谈。"
+     },
+     {
+      "title": "全市开发区高质量发展座谈会召开",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-08-31",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "开发区改革·园区经济·皖北全面振兴",
+       "business": "园区配套（厂房装修、环评安评、企业开办一站式）"
+      },
+      "star": 1,
+      "summary": "亳州开发区高质量发展座谈会。"
+     }
+    ]
+   },
+   "亳州新闻网·要闻": {
+    "items": [
+     {
+      "title": "2026药博会将于9月8日开幕",
+      "url": "http://www.bozhou.cn/yaowen/p/400630.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "business": "会展经济·中医药国际化窗口"
+      }
+     },
+     {
+      "title": "【亳州观察】中医药传承创新 亳州心中有“数”的底气何来？",
+      "url": "http://www.bozhou.cn/yaowen/p/401179.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "business": "中医药全产业链数字化改造"
+      },
+      "image": "http://res.bozhou.cn/a/10001/202609/52ffe86342c1efda5223ae9b4a969de3.jpeg"
+     }
+    ]
+   },
+   "蒙城县政府网": {
+    "items": [
+     {
+      "title": "淮阜高铁开始联调联试",
+      "url": "https://www.mengcheng.gov.cn/News/show/725533.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "business": "高铁经济区物流文旅机会"
+      }
+     }
+    ]
+   },
+   "安徽省政府·要闻": {
+    "items": [
+     {
+      "title": "安徽省人民政府关于推进服务业扩能提质的实施意见",
+      "url": "https://www.ah.gov.cn/public/1681/565535221.html",
+      "date": "2026-09-02",
+      "region": "安徽",
+      "meta": {
+       "business": "服务业准入放宽与补贴申报"
+      }
+     }
+    ]
+   },
+   "省工信厅": {
+    "items": [
+     {
+      "title": "安徽化工中试基地和中试项目管理办法（征求意见稿）",
+      "url": "https://jx.ah.gov.cn/content/article/150651881",
+      "date": "2026-09-02",
+      "region": "安徽",
+      "meta": {
+       "business": "中试平台建设与检测服务创业"
+      }
+     }
+    ]
+   },
+   "亳州市发改委": {
+    "items": [
+     {
+      "title": "秦凤玉率队赴长三角开展龙头企业招引",
+      "url": "https://fgw.bozhou.gov.cn//News/show/719100.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "双招双引·长三角一体化",
+       "business": "招引配套：企业落地服务、园区运营"
+      },
+      "summary": ""
+     },
+     {
+      "title": "全市经济高质量发展专题研修班开班",
+      "url": "https://fgw.bozhou.gov.cn//News/show/721395.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "双招双引·长三角一体化",
+       "business": "招引配套：企业落地服务、园区运营"
+      },
+      "summary": ""
+     }
+    ]
+   },
+   "安徽省人社厅·公示公告": {
+    "items": [
+     {
+      "title": "安徽人社“十五五”规划出台（联合省发改委印发）",
+      "url": "https://hrss.ah.gov.cn/public/6595721/80811206.html",
+      "date": "2026-09-02",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "人社事业五年规划·就业优先战略（申论省情素材）",
+       "business": "技能培训、人力资源服务业政策窗口"
+      },
+      "star": 4,
+      "summary": ""
+     }
+    ]
+   }
+  },
+  "乡村振兴": {
+   "中国政府网·政务联播": {
+    "items": [
+     {
+      "title": "《中国数字乡村发展报告（2019—2025年）》发布",
+      "url": "https://www.gov.cn/lianbo/202609/content_7079804.htm",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "数字乡村·智慧农业",
+       "business": "数字农业物联网墒情监测"
+      },
+      "summary": "数字乡村发展报告发布。"
+     }
+    ]
+   },
+   "中国政府网·要闻": {
+    "items": [
+     {
+      "title": "科技助力田管 推动粮食稳产增收",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079600.htm",
+      "date": "2026-08-30",
+      "region": "全国",
+      "meta": {
+       "shenlun": "粮食安全·科技强农",
+       "business": "智慧农机、无人机植保——涡阳模式可复制"
+      },
+      "star": 1,
+      "summary": "央视《新闻联播》曾以此报道亳州涡阳。"
+     }
+    ]
+   },
+   "安徽省政府·安徽要闻": {
+    "items": [
+     {
+      "title": "全省小麦已收购690.35万吨",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565538201.html",
+      "date": "2026-09-01",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "粮食安全·收购储运",
+       "business": "粮食仓储、烘干、质检服务"
+      },
+      "summary": "安徽小麦收购进度。"
+     },
+     {
+      "title": "毫不放松抓好常态化精准帮扶 坚决守牢不发生规模性返贫致贫底线",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565537881.html",
+      "date": "2026-08-30",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "巩固拓展脱贫攻坚成果·常态化精准帮扶",
+       "business": "防返贫监测信息系统、产业帮扶项目运营"
+      },
+      "star": 1,
+      "summary": "省委常委会会议部署，梁言顺主持并讲话。"
+     },
+     {
+      "title": "让每一块耕地都成放心田",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565537901.html",
+      "date": "2026-08-30",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "耕地保护·粮食安全",
+       "business": "耕地质量提升、土壤修复服务"
+      },
+      "summary": "耕地保护与质量提升。"
+     }
+    ]
+   },
+   "亳州市农业农村局": {
+    "items": [
+     {
+      "title": "亳州市农机购置与应用补贴资金使用进度（2026.5...",
+      "url": "https://nyncj.bozhou.gov.cn//News/show/719621.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "农机购置补贴政策（强农惠农）",
+       "business": "农资农机供应链、冷链物流、中药材种植服务"
+      },
+      "summary": ""
+     },
+     {
+      "title": "总书记的人民情怀 | “中国式现代化关键在科技现代...",
+      "url": "https://nyncj.bozhou.gov.cn//News/show/715999.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "粮食安全·三夏生产",
+       "business": "农资农机供应链、冷链物流、中药材种植服务"
+      },
+      "summary": ""
+     },
+     {
+      "title": "亳州小麦已进入收获高峰期",
+      "url": "https://nyncj.bozhou.gov.cn//News/show/719474.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "粮食安全·三夏生产",
+       "business": "农资农机供应链、冷链物流、中药材种植服务"
+      },
+      "summary": ""
+     }
+    ]
+   },
+   "农民日报": {
+    "items": [
+     {
+      "title": "2026全国“村BA”中部赛区在宜宾兴文开赛",
+      "url": "https://www.farmer.com.cn/2026/09/02/991027420.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "乡村体育·农民文化活动（乡村振兴申论素材）",
+       "business": "县域消费、农产品电商"
+      },
+      "summary": ""
+     },
+     {
+      "title": "200幅“来密云看海”精品书画亮相北京城市副中心",
+      "url": "https://www.farmer.com.cn/2026/09/02/991027426.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "三农政策·乡村产业融合",
+       "business": "县域消费、农产品电商"
+      },
+      "summary": ""
+     },
+     {
+      "title": "中华保险成立40周年媒体座谈会举办",
+      "url": "https://www.farmer.com.cn/2026/09/02/991027429.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "三农政策·乡村产业融合",
+       "business": "县域消费、农产品电商"
+      },
+      "summary": ""
+     }
+    ]
+   }
+  },
+  "科技创新": {
+   "中国新闻网": {
+    "items": [
+     {
+      "title": "智神星一号运载火箭首飞成功",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687696.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "科技自立自强·商业航天",
+       "business": "商业航天配套产业链外溢"
+      },
+      "summary": "商业航天运载火箭首飞成功。"
+     },
+     {
+      "title": "我国铜金矿勘查获重大突破 有望新形成大型资源基地",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687689.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "资源安全·能源资源保障",
+       "business": "矿权服务、矿山生态修复"
+      },
+      "summary": "新一轮找矿突破战略行动成果。"
+     }
+    ]
+   },
+   "中国政府网·政务联播": {
+    "items": [
+     {
+      "title": "人工智能应用服务商培育专项行动启动",
+      "url": "https://www.gov.cn/lianbo/202608/content_7079724.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "人工智能+·新质生产力",
+       "business": "亳州中医药AI问诊、药材识别、智能客服"
+      },
+      "star": 1,
+      "summary": "工信部等启动AI应用服务商培育专项行动。"
+     },
+     {
+      "title": "全国一体化算力网加快构建",
+      "url": "https://www.gov.cn/lianbo/202608/content_7079638.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "新型基础设施·算力·东数西算",
+       "business": "边缘计算节点、数据中心运维外包"
+      },
+      "summary": "全国一体化算力网建设进展。"
+     }
+    ]
+   },
+   "中国政府网·要闻": {
+    "items": [
+     {
+      "title": "我国推出新举措加快数据产业发展",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079598.htm",
+      "date": "2026-08-30",
+      "region": "全国",
+      "meta": {
+       "shenlun": "数字经济·数据要素",
+       "business": "数据标注、政务数字化外包"
+      },
+      "summary": "数据产业新举措。"
+     }
+    ]
+   },
+   "安徽省人社厅": {
+    "items": [
+     {
+      "title": "2026年度安徽省博士后独立科研工作者（独立PI）培育项目拟资助名单公示",
+      "url": "https://hrss.ah.gov.cn/zxzx/gsgg/80811189.html",
+      "date": "2026-09-01",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "人才强国·科研体制",
+       "business": "高层次人才科研成果转化中介"
+      },
+      "summary": "博士后独立PI培育项目资助名单。"
+     }
+    ]
+   },
+   "亳州市科技局": {
+    "items": [
+     {
+      "title": "【中国科学报】科学家首次利用“暗腔”实现真空涨落增...",
+      "url": "https://kjj.bozhou.gov.cn//News/show/725315.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "基础科学前沿·科技创新",
+       "business": "科创孵化、检验检测、专利服务"
+      },
+      "summary": ""
+     }
+    ]
+   }
+  },
+  "生态文明": {
+   "中国新闻网": {
+    "items": [
+     {
+      "title": "12.86亿千瓦！我国光伏发电装机历史性超过煤电",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687699.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "双碳目标·能源结构转型",
+       "business": "分布式光伏运维、农户屋顶光伏租赁"
+      },
+      "star": 1,
+      "summary": "光伏发电装机达12.86亿千瓦，首次超过煤电装机。"
+     }
+    ]
+   },
+   "亳州视听网": {
+    "items": [
+     {
+      "title": "谯城区农户申请改厕 到行政村提交身份证登记 审核后即可改厕",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "农村人居环境整治·厕所革命",
+       "business": "农村改厕施工与后续管护（长期市场）"
+      },
+      "star": 1,
+      "summary": "农村户厕改造申请流程简化。"
+     }
+    ]
+   },
+   "亳州新闻网·要闻": {
+    "items": [
+     {
+      "title": "药博会将首次实现100%绿电供应 预计减排约1940吨",
+      "url": "http://www.bozhou.cn/yaowen/p/401175.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "business": "绿电交易与碳资产管理服务"
+      }
+     }
+    ]
+   },
+   "蒙城县政府网": {
+    "items": [
+     {
+      "title": "蒙城：全县生活垃圾分类工作推进会议召开",
+      "url": "https://www.mengcheng.gov.cn/News/show/724043.html",
+      "date": "2026-09-02",
+      "region": "亳州"
+     }
+    ]
+   }
+  },
+  "社会民生": {
+   "中国新闻网": {
+    "items": [
+     {
+      "title": "2026年全国科普月全面启动 各类活动将持续1个月",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687723.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "科学普及·提高全民科学素质",
+       "business": "科普研学、青少年STEM培训"
+      },
+      "summary": "全国科普月启动。"
+     },
+     {
+      "title": "市场监管总局公布典型案例 严厉打击以假充真、以次充好",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687719.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "市场监管·消费者权益保护·质量强国",
+       "business": "第三方检测、质量认证服务"
+      },
+      "summary": "市场监管总局公布质量违法典型案例。"
+     },
+     {
+      "title": "四川一中学收220元入校门禁费？官方通报",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687662.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "教育公平·规范教育收费",
+       "business": "校园智慧门禁合规免费方案"
+      },
+      "summary": "开学季教育收费乱象。"
+     },
+     {
+      "title": "广西平乐通报78名学生住体育场宿舍：已开展整改",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687640.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "教育民生·基层办学条件保障",
+       "business": "学校宿舍改造、装配式临时校舍"
+      },
+      "summary": "学校办学条件问题通报整改。"
+     },
+     {
+      "title": "90多元烧烤打包费近20元 外卖打包费咋成了糊涂账？",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-01/10687598.shtml",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "消费者权益保护·平台经济监管",
+       "business": "明码标价合规SaaS、可降解打包耗材"
+      },
+      "summary": "外卖打包费不明码标价问题。"
+     },
+     {
+      "title": "多部门依法查处两起涉中医药网络违规营销宣传问题",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687418.shtml",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "中医药传承创新·网络空间治理",
+       "business": "中医药合规营销代运营、内容审核"
+      },
+      "star": 1,
+      "summary": "查处中医药网络违规营销，与亳州中医药产业直接相关。"
+     }
+    ]
+   },
+   "中国政府网·政策库": {
+    "items": [
+     {
+      "title": "教育部等七部门关于印发《特殊教育发展提升十五五行动计划》的通知",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202608/content_7079639.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "教育公平·特殊教育",
+       "business": "特殊教育康复辅具、融合教育培训"
+      },
+      "summary": "七部门联合印发特殊教育发展提升行动计划。"
+     }
+    ]
+   },
+   "中国政府网·政务联播": {
+    "items": [
+     {
+      "title": "七部门启动实施特殊教育发展提升十五五行动计划",
+      "url": "https://www.gov.cn/lianbo/202608/content_7079634.htm",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "民生保障",
+       "business": "同上"
+      },
+      "summary": "政策启动实施报道。"
+     }
+    ]
+   },
+   "亳州视听网": {
+    "items": [
+     {
+      "title": "护航药博会！谯城开展酒店宾馆专项检查，住宿卫生从严把关",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "公共卫生监管·重大活动保障",
+       "business": "酒店布草洗涤、住宿卫生达标改造"
+      },
+      "summary": "谯城区酒店宾馆住宿卫生专项检查。"
+     },
+     {
+      "title": "亳州开展集中整治！涉及网络医闹、恶意索赔等不当行为",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "基层治理·网络空间治理·行业乱象整治",
+       "business": "医闹防范培训、医疗机构舆情与合规服务"
+      },
+      "star": 1,
+      "summary": "亳州集中整治网络医闹、恶意索赔。"
+     },
+     {
+      "title": "外地号牌电动三轮车一律禁止驶入主城区",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "城市交通治理·疏堵结合",
+       "business": "合规配送车辆置换、末端物流运力重组"
+      },
+      "summary": "亳州主城区禁行外地号牌电动三轮车。"
+     },
+     {
+      "title": "亳州市2026年下半年高等教育自学考试报名公告",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "终身教育·学习型社会",
+       "business": "自考助学、学历提升培训"
+      },
+      "summary": "自考报名。"
+     },
+     {
+      "title": "2026年亳州市成人高校招生考试报名公告",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "继续教育",
+       "business": "成考辅导、函授站运营"
+      },
+      "summary": "成考报名。"
+     },
+     {
+      "title": "每月最高省200元！亳州这项惠民活动再上新",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "惠民政策·民生保障",
+       "business": "惠民活动承接（消费补贴类服务商）"
+      },
+      "summary": "亳州惠民补贴活动。"
+     },
+     {
+      "title": "谯城区老年大学秋季学期报名开始（9月1日至9月4日）",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "积极应对人口老龄化·老年教育·一老一小",
+       "business": "老年大学学位供不应求→教材、游学、适老化产品体验店"
+      },
+      "star": 1,
+      "summary": "报名窗口仅4天。"
+     },
+     {
+      "title": "超酷开学礼！亳州八小科技感拉满，点亮孩子科学梦",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "科学教育·双减·立德树人",
+       "business": "校园科技活动策划、科普器材供应"
+      },
+      "summary": "开学季科技主题活动。"
+     },
+     {
+      "title": "新学期第一餐：养生亳州 健康校园",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "校园食品安全·中医药膳",
+       "business": "校园营养餐配送、药膳标准化"
+      },
+      "summary": "亳州校园营养餐融入养生元素。"
+     },
+     {
+      "title": "给理想插上翅膀：少年高考前丧母 高考后打三份工 只为完成求学梦",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "自强不息·教育公平·困难学生资助",
+       "business": "低（面试观点题可用）"
+      },
+      "summary": "困难学子自强故事。"
+     },
+     {
+      "title": "秦凤玉赴蒙城县带案下访并开展督导调研",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-08-26",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "领导干部下访接访·信访工作法治化·浦江经验",
+       "business": "低（亳州本地实践案例）"
+      },
+      "star": 1,
+      "summary": "市委书记带案下访。"
+     }
+    ]
+   },
+   "亳州新闻网·要闻": {
+    "items": [
+     {
+      "title": "政校企携手促就业",
+      "url": "http://www.bozhou.cn/yaowen/p/400911.html",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "产教融合·高质量充分就业",
+       "business": "校企合作订单班、实训基地承建机会"
+      },
+      "summary": "亳州政校企协同发力促就业，产教融合落地样本。"
+     },
+     {
+      "title": "我市再次公开招募银龄教师",
+      "url": "http://www.bozhou.cn/yaowen/p/401174.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "business": "银龄人才返聘与教培配套"
+      }
+     }
+    ]
+   },
+   "亳州市人社局": {
+    "items": [
+     {
+      "title": "2026.9.1病残津贴公示",
+      "url": "https://rsj.bozhou.gov.cn/News/show/726013.html",
+      "date": "2026-09-02",
+      "region": "亳州"
+     }
+    ]
+   },
+   "亳州市教育局": {
+    "items": [
+     {
+      "title": "利辛县举办秋季学期校园食品安全暨膳食经费管理专题培训",
+      "url": "https://jyj.bozhou.gov.cn//News/show/725591.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "食品安全监管·校园治理（社会民生申论）",
+       "business": "教培转型、校园餐饮配送、智慧校园服务"
+      },
+      "summary": ""
+     },
+     {
+      "title": "全市教育系统以“十个三”为抓手奋楫新征程",
+      "url": "https://jyj.bozhou.gov.cn//News/show/725379.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "教师队伍建设·师德师风（教育常识考点）",
+       "business": "教培转型、校园餐饮配送、智慧校园服务"
+      },
+      "summary": ""
+     },
+     {
+      "title": "教育部办公厅关于做好庆祝第42个教师节有关工作的通...",
+      "url": "https://jyj.bozhou.gov.cn//News/show/725187.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "教师队伍建设·师德师风（教育常识考点）",
+       "business": "教培转型、校园餐饮配送、智慧校园服务"
+      },
+      "summary": ""
+     }
+    ]
+   },
+   "安徽省教育厅": {
+    "items": [
+     {
+      "title": "安徽省教育厅关于印发《关于进一步推进各级\n各类教育学习成果存储、认证、转换与应用\n工作的实施意见（试行）》的通知",
+      "url": "https://jyt.ah.gov.cn/public/7071/40777266.html",
+      "date": "2026-09-02",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "考试招生制度·继续教育",
+       "business": "教培转型、校园餐饮配送、智慧校园服务"
+      },
+      "summary": ""
+     },
+     {
+      "title": "安徽省教育厅关于印发《安徽省中小学校教研组建设指导意见》的通知",
+      "url": "https://jyt.ah.gov.cn/public/7071/40780940.html",
+      "date": "2026-09-02",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "考试招生制度·继续教育",
+       "business": "教培转型、校园餐饮配送、智慧校园服务"
+      },
+      "summary": ""
+     },
+     {
+      "title": "安徽省教育厅关于印发安徽省高等教育自学考试学习服务中心管理办法的通知",
+      "url": "https://jyt.ah.gov.cn/public/7071/40793589.html",
+      "date": "2026-09-02",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "考试招生制度·继续教育",
+       "business": "教培转型、校园餐饮配送、智慧校园服务"
+      },
+      "summary": ""
+     }
+    ]
+   },
+   "亳州市卫健委": {
+    "items": [
+     {
+      "title": "亳州市举办2026年健康素养巡讲专家评选活动",
+      "url": "https://wjw.bozhou.gov.cn//News/show/724765.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "健康素养促进行动",
+       "business": "大健康产业、中医药康养（世界中医药之都）"
+      },
+      "summary": ""
+     }
+    ]
+   },
+   "健康报": {
+    "items": [
+     {
+      "title": "坚持做好这个小而美的民生项目",
+      "url": "http://www.jkb.com.cn//news/depth/2026/0902/513552.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "全民健康生活方式行动",
+       "business": "大健康产业、中医药康养（世界中医药之都）"
+      },
+      "summary": ""
+     },
+     {
+      "title": "全民健康文明生活方式宣传月和“全国爱牙日”活动主题公布",
+      "url": "https://www.jkb.com.cn/news/industryNews/2026/0902/513554.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "全民健康生活方式行动",
+       "business": "大健康产业、中医药康养（世界中医药之都）"
+      },
+      "summary": ""
+     },
+     {
+      "title": "今年基本公卫服务工作重点确定",
+      "url": "https://www.jkb.com.cn/news/industryNews/2026/0902/513555.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "健康中国·公共卫生服务体系",
+       "business": "大健康产业、中医药康养（世界中医药之都）"
+      },
+      "summary": ""
+     }
+    ]
+   },
+   "中国青年网": {
+    "items": [
+     {
+      "title": "ؼ¡ʯֺ21 541ʧ",
+      "url": "https://www.youth.cn///news.youth.cn/jsxw/202609/t20260902_16848191.htm",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "青年发展型城市·就业见习",
+       "business": "青年消费、职教培训"
+      },
+      "summary": ""
+     },
+     {
+      "title": "ͨ¡ڰŵĵ·ʵȫ߹ֱֳͨ",
+      "url": "https://www.youth.cn///news.youth.cn/gn/202609/t20260902_16848231.htm",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "青年发展型城市·就业见习",
+       "business": "青年消费、职教培训"
+      },
+      "summary": ""
+     }
+    ]
+   }
+  },
+  "就业创业": {
+   "安徽省人社厅": {
+    "items": [
+     {
+      "title": "安徽省人社厅印发《安徽省就业见习管理办法》",
+      "url": "https://hrss.ah.gov.cn/public/6595721/80811149.html",
+      "date": "2026-08-31",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "高质量充分就业·青年就业见习制度",
+       "business": "见习基地认定新规：补贴标准、留用激励，中小企业申办见习基地政策红利"
+      },
+      "star": 3,
+      "summary": "省级就业见习管理新规，08-31发布，配套政策解读同日挂网。"
+     },
+     {
+      "title": "关于做好2027届困难毕业生求职补贴信息化发放工作的通知",
+      "url": "https://hrss.ah.gov.cn/zxzx/gsgg/80811054.html",
+      "date": "2026-08-28",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "就业优先·困难群体帮扶",
+       "business": "高校毕业生求职服务、面试培训"
+      },
+      "summary": "困难毕业生求职补贴发放工作部署。"
+     },
+     {
+      "title": "安徽省人社厅 财政厅 关于进一步加强职业技能培训补助资金使用管理的通知",
+      "url": "https://hrss.ah.gov.cn/zxzx/gsgg/80811065.html",
+      "date": "2026-08-28",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "技能人才队伍建设·财政资金绩效",
+       "business": "合规机构承接政府补贴培训项目窗口期"
+      },
+      "star": 1,
+      "summary": "职业技能培训补助资金规范化管理。"
+     },
+     {
+      "title": "2026年安徽省省直机关事业单位公开招募就业见习人员公告",
+      "url": "https://hrss.ah.gov.cn/zxzx/gsgg/80809176.html",
+      "date": "2026-08-18",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "就业见习·稳就业",
+       "business": "见习岗位对接、见习期培训服务"
+      },
+      "summary": "省直机关事业单位就业见习招募。"
+     }
+    ]
+   },
+   "安徽省政府·安徽要闻": {
+    "items": [
+     {
+      "title": "我省人社事业发展十五五规划出台",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565538191.html",
+      "date": "2026-09-01",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "高质量充分就业·收入分配·技能中国",
+       "business": "技能培训补贴项目、家门口就业工程、中药材技工与家政养老护理员培训"
+      },
+      "star": 1,
+      "summary": "城镇新增就业340万人、城镇居民收入增速高于全国、技能人才950万人。6大目标18项指标、7方面29项重点任务、9个专栏30个子项目，特别设置城镇居民增收和促进区域协调发展章节。上半年城镇居民人均可支"
+     }
+    ]
+   },
+   "安徽省人社厅·市县动态": {
+    "items": [
+     {
+      "title": "亳州：以职业技能竞赛推动家政行业规范化高质量发展",
+      "url": "https://hrss.ah.gov.cn/zxzx/sxbd/80792151.html",
+      "date": "2026-07-22",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "家政服务业提质扩容·一老一小",
+       "business": "持证家政/养老护理员培训与品牌化运营"
+      },
+      "star": 1,
+      "summary": "亳州以技能竞赛推动家政行业规范化。"
+     }
+    ]
+   },
+   "亳州市人社局": {
+    "items": [
+     {
+      "title": "亳州市经营性人力资源服务机构信息（名录公开）",
+      "url": "https://rsj.bozhou.gov.cn/News/show/726111.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "就业优先·人力资源服务业发展",
+       "business": "本地人力资源市场名录+许可备案信息，劳务派遣/代招/猎头赛道对标名单"
+      },
+      "summary": "公开涡阳等地经营性人力资源服务机构名录（含统一社会信用代码、许可备案编号、有效期限）。"
+     },
+     {
+      "title": "关于拟拨付2026年8月份亳州市本级机关事业单位就业见习人员基本生活补贴的公示",
+      "url": "https://rsj.bozhou.gov.cn/News/show/726079.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "稳就业·青年就业帮扶体系",
+       "business": "见习基地补贴按月拨付，申报见习基地的企业可对标流程"
+      },
+      "summary": "依据皖人社秘〔2023〕230号，拟拨付8月份市本级机关事业单位见习人员基本生活补贴。"
+     },
+     {
+      "title": "2026年1-8月创业担保贷款完成情况（3392笔/7.25亿元）",
+      "url": "https://rsj.bozhou.gov.cn/News/show/726089.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "稳就业·金融支持创业·普惠金融",
+       "business": "亳州创业资金面：8个月发放7.25亿元，担保贷款经办银行/合作机构窗口期，创业者可对标申请"
+      },
+      "star": 5,
+      "summary": "1-8月创业担保贷款成功发放3392笔，发放金额72461.5万元，平均单笔约21.4万元。创业者申请主渠道仍在放量。"
+     },
+     {
+      "title": "关于亳州市2026年源来好创业资源对接服务季活动四清单两名录的公告",
+      "url": "https://rsj.bozhou.gov.cn/News/show/725350.html",
+      "date": "2026-08-24",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "就业优先·创业服务",
+       "business": "创业者最直接的政府资源入口"
+      },
+      "star": 1,
+      "summary": "官方创业资源包，清单含导师、投资人、场地、项目。"
+     },
+     {
+      "title": "2026年亳州市本级青年就业见习基地公示（第八批）",
+      "url": "https://rsj.bozhou.gov.cn/News/show/725349.html",
+      "date": "2026-08-24",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "就业见习·稳就业",
+       "business": "见习基地申报、见习生岗前培训"
+      },
+      "summary": "青年就业见习基地名单。"
+     },
+     {
+      "title": "2026年亳州市本级小微企业吸纳高校毕业生社会保险补贴公示（第三批）",
+      "url": "https://rsj.bozhou.gov.cn/News/show/724896.html",
+      "date": "2026-08-17",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "稳就业·援企稳岗",
+       "business": "小微企业用足社保补贴政策降本"
+      },
+      "summary": "小微企业吸纳高校毕业生社保补贴。"
+     },
+     {
+      "title": "2026年第3期亳州市市本级灵活就业社保补贴公示",
+      "url": "https://rsj.bozhou.gov.cn/News/show/724895.html",
+      "date": "2026-08-17",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "灵活就业保障·新就业形态劳动者权益",
+       "business": "灵活就业人员社保代缴、新就业群体服务"
+      },
+      "summary": "灵活就业社保补贴。"
+     },
+     {
+      "title": "2026年1-7月创业担保贷款完成情况",
+      "url": "https://rsj.bozhou.gov.cn/News/show/724138.html",
+      "date": "2026-08-05",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "创业融资支持·金融服务实体经济",
+       "business": "创业担保贷款——低成本资金通道"
+      },
+      "star": 1,
+      "summary": "创业担保贷款发放情况。"
+     }
+    ]
+   },
+   "安徽省人社厅·公示公告": {
+    "items": [
+     {
+      "title": "《安徽省就业见习管理办法》政策解读发布",
+      "url": "https://hrss.ah.gov.cn/public/6595721/80811150.html",
+      "date": "2026-09-02",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "就业见习制度实施细则（与见习管理办法配套）",
+       "business": "见习基地申办流程参照"
+      },
+      "star": 3,
+      "summary": ""
+     },
+     {
+      "title": "关于做好2027届困难毕业生求职补贴信息化发放工作的通知",
+      "url": "https://hrss.ah.gov.cn/public/6595721/80811056.html",
+      "date": "2026-09-02",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "困难毕业生帮扶·求职创业补贴制度（民生保障考点）",
+       "business": "补贴代办、就业服务外包机构机会"
+      },
+      "star": 4,
+      "summary": ""
+     }
+    ]
+   }
+  },
+  "文化建设": {
+   "安徽省政府·安徽要闻": {
+    "items": [
+     {
+      "title": "黄梅戏《热血之花》绽放首都舞台",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565538211.html",
+      "date": "2026-09-01",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "文化自信·两创",
+       "business": "地方戏曲IP开发、演艺+文旅"
+      },
+      "summary": "安徽地方戏曲进京演出。"
+     },
+     {
+      "title": "书香安徽 江淮读书月 启幕",
+      "url": "https://www.ah.gov.cn/zwyw/jryw/565537991.html",
+      "date": "2026-08-31",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "全民阅读·书香中国",
+       "business": "城市书房运营、读书会IP、文创开发"
+      },
+      "summary": "安徽全民阅读活动启幕。"
+     }
+    ]
+   },
+   "亳州视听网": {
+    "items": [
+     {
+      "title": "实景《曹操》自7月10日公演以来持续火爆 累计售票近20万张",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "文旅融合·文化IP转化·消费新业态",
+       "business": "周边餐饮、汉服租赁、研学、夜间经济"
+      },
+      "star": 1,
+      "summary": "亳州实景演艺项目市场表现。"
+     }
+    ]
+   },
+   "亳州文旅体局": {
+    "items": [
+     {
+      "title": "《汉石遗韵》汉画像艺术特展亮相亳州",
+      "url": "https://wlt.bozhou.gov.cn/News/show/725986.html",
+      "date": "2026-09-02",
+      "region": "亳州",
+      "meta": {
+       "business": "展览策划与文创衍生"
+      }
+     }
+    ]
+   },
+   "亳州新闻网·要闻": {
+    "items": [
+     {
+      "title": "我市端出金秋文旅盛宴（药博会9月8日开幕）",
+      "url": "http://www.bozhou.cn/yaowen/p/400915.html",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "文化强国·文旅融合",
+       "business": "药博会+金秋文旅双流量入口：餐饮摊位、文创摊位、住宿溢价窗口6天倒计时"
+      },
+      "star": 4,
+      "summary": "2026药博会定档9月8日开幕，金秋文旅活动矩阵同步启动，中医药大健康流量季开启。"
+     }
+    ]
+   },
+   "中国政府网·要闻": {
+    "items": [
+     {
+      "title": "《平“语”近人——习近平喜欢的典故》（阿拉伯语版）在埃及主流媒体播出",
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080009.htm",
+      "date": "2026-09-02",
+      "region": "国家",
+      "meta": {
+       "shenlun": "文化走出去·文明交流互鉴（文化建设类申论素材）",
+       "business": "文化出海内容多语种翻译/发行赛道"
+      },
+      "star": 3,
+      "summary": "中华文化对外传播标志性案例，可与中埃访问联动出题。"
+     }
+    ]
+   },
+   "央视新闻": {
+    "items": [
+     {
+      "title": "新学期开始 各地开展开学第一课",
+      "url": "https://news.cctv.com/2026/09/02/ARTIglEEQkB4tIxj868MIvGk260902.shtml",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "立德树人·大思政课",
+       "business": "短视频代运营、本地媒体广告"
+      },
+      "summary": "",
+      "video": true
+     }
+    ]
+   }
+  },
+  "退役军人": {
+   "退役军人事务部·地方动态": {
+    "items": [
+     {
+      "title": "安徽：举办全省退役军人事务员初级师资培训班",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583445.html",
+      "date": "2026-09-01",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "退役军人服务保障体系·基层服务站",
+       "business": "退役军人事务员职业技能等级认定培训"
+      },
+      "star": 1,
+      "summary": "安徽举办退役军人事务员初级师资培训班。"
+     },
+     {
+      "title": "辽宁：举办第四届退役军人创业创新大赛",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583455.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "退役军人创业·双创",
+       "business": "亳州退役军人可组队参赛，获奖有落地补贴与融资对接"
+      },
+      "star": 1,
+      "summary": "辽宁第四届退役军人创业创新大赛。安徽已办第四届池州市选拔赛（08-19），亳州可参照。"
+     },
+     {
+      "title": "陕西长武：召开2026年度政府安排工作退役士兵安置选岗会",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583447.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "退役士兵安置·阳光安置",
+       "business": "安置岗位对接、职业规划咨询"
+      },
+      "summary": "退役士兵安置选岗。"
+     },
+     {
+      "title": "内蒙古：发布2026年最美拥军人物、最美退役军人",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583451.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "双拥·先进典型",
+       "business": "低"
+      },
+      "summary": "先进典型发布。"
+     },
+     {
+      "title": "山东：召开全省优抚褒扬重点工作推进会",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583461.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "优抚褒扬·烈士纪念设施保护",
+       "business": "优抚对象家政照护、上门服务"
+      },
+      "summary": "优抚褒扬工作推进。"
+     },
+     {
+      "title": "江苏无锡：成立法律志愿服务队 守护军休干部幸福晚年",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583457.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "军休干部服务·法律服务志愿",
+       "business": "老年法律服务、遗嘱与财产规划"
+      },
+      "summary": "退役军人法律服务志愿队成立。"
+     },
+     {
+      "title": "湖南安化：78岁老兵深夜巡查 紧急转移7人",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583449.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "退役军人本色·先进典型",
+       "business": "低（申论大作文极佳人物论据）"
+      },
+      "star": 1,
+      "summary": "78岁老兵深夜巡查转移群众。"
+     },
+     {
+      "title": "浙江绍兴：公园里有个特殊军营",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583459.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "国防教育·双拥文化",
+       "business": "国防教育主题公园运营、研学课程"
+      },
+      "summary": "国防教育主题公园。"
+     },
+     {
+      "title": "上海崇明区：同心驻双拥 温情满瀛洲",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583453.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "双拥共建",
+       "business": "低"
+      },
+      "summary": "双拥活动。"
+     },
+     {
+      "title": "北京各区将多元化拥军活动送进军营",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583443.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "双拥工作",
+       "business": "拥军慰问物资供应、活动策划"
+      },
+      "summary": "拥军活动。"
+     },
+     {
+      "title": "四川省第三退役军人医院开展巡回医疗活动",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583441.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "退役军人医疗保障",
+       "business": "退役军人医疗巡诊、康复辅具配送"
+      },
+      "summary": "退役军人巡回医疗。"
+     },
+     {
+      "title": "河南巩义：暖心年审零距离用心服务退役军人",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583439.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "政务服务便民化·数字包容",
+       "business": "政务上门代办服务"
+      },
+      "summary": "上门年审服务。"
+     },
+     {
+      "title": "河北秦皇岛：军地同心送关怀 尊崇关爱暖老兵",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583437.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "尊崇关爱",
+       "business": "低"
+      },
+      "summary": "关爱老兵活动。"
+     },
+     {
+      "title": "江西新余：开展2026年政府开放日活动",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583435.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "政务公开·服务型政府",
+       "business": "低"
+      },
+      "summary": "政府开放日。"
+     },
+     {
+      "title": "广西钦州：开展少年儿童军事体验主题活动",
+      "url": "https://www.mva.gov.cn/xinwen/dfdt/202608/t20260831_583433.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "国防教育·未成年人思想道德建设",
+       "business": "青少年军事研学营地"
+      },
+      "summary": "青少年军事体验活动。"
+     }
+    ]
+   },
+   "安徽省退役军人事务厅": {
+    "items": [
+     {
+      "title": "安徽省爱国拥军促进会获评5A级社会组织",
+      "url": "https://dva.ah.gov.cn/xw/tnxx/80811032.html",
+      "date": "2026-08-27",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "社会组织管理·双拥社会力量",
+       "business": "社会组织等级评估辅导"
+      },
+      "summary": "社会组织等级评估。"
+     },
+     {
+      "title": "省退役军人事务厅开展金秋助学活动",
+      "url": "https://dva.ah.gov.cn/xw/tnxx/80811031.html",
+      "date": "2026-08-27",
+      "region": "安徽",
+      "meta": {
+       "shenlun": "退役军人子女教育帮扶·教育公平",
+       "business": "助学配套（学习用品、心理辅导）"
+      },
+      "summary": "退役军人子女助学。"
+     }
+    ]
+   }
+  },
+  "正能量": {
+   "亳州视听网": {
+    "items": [
+     {
+      "title": "20载助学初心不改！古井集团金秋助学在行动",
+      "url": "https://www.ahbztv.com",
+      "date": "2026-09-01",
+      "region": "亳州",
+      "meta": {
+       "shenlun": "企业社会责任·第三次分配·共同富裕",
+       "business": "企业公益策划、助学基金运营"
+      },
+      "summary": "古井集团连续20年金秋助学。"
+     }
+    ]
+   }
+  },
+  "时评精读": {
+   "半月谈": {
+    "items": [
+     {
+      "title": "【半月谈·今日谈】小班化=小班额？——基础教育改革应对学龄人口之变（上）",
+      "url": "http://www.banyuetan.org/jrt/detail/20260901/1000200033134991788228647236444270_1.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "教育强国·学龄人口变化应对·基础教育改革",
+       "business": "小班化教具、分层教学资源包、教师小规模教学能力培训"
+      },
+      "star": 1,
+      "summary": "小班化不等于简单缩减班额，需推动教学组织、课程结构、评价方式、教师发展和学校治理协同变革。"
+     },
+     {
+      "title": "【半月谈·今日谈】中国天眼十年凝视，宇宙快信升阶解码",
+      "url": "http://www.banyuetan.org/jrt/detail/20260831/1000200033134991788163614433468470_1.html",
+      "date": "2026-08-31",
+      "region": "全国",
+      "meta": {
+       "shenlun": "科技自立自强·大科学装置",
+       "business": "低"
+      },
+      "summary": "中国天眼FAST十年成果。"
+     },
+     {
+      "title": "【半月谈·今日谈】长江拐角处，藏着乡村善治密码",
+      "url": "http://www.banyuetan.org/jrt/detail/20260828/1000200033134991787900261607406066_1.html",
+      "date": "2026-08-28",
+      "region": "全国",
+      "meta": {
+       "shenlun": "乡村治理·和美乡村·人居环境整治",
+       "business": "和美乡村建设总包、村集体经济运营顾问"
+      },
+      "star": 1,
+      "summary": "湖北鄂城区从脏乱穷差到宜居宜业的破局之路。"
+     },
+     {
+      "title": "【半月谈·今日谈】编制资源向发展最关键环节流动",
+      "url": "http://www.banyuetan.org/jrt/detail/20260828/1000200033134991787881511696399095_1.html",
+      "date": "2026-08-28",
+      "region": "全国",
+      "meta": {
+       "shenlun": "编制资源统筹·基层治理创新·土地流转",
+       "business": "土地流转服务、规模化种植托管"
+      },
+      "star": 1,
+      "summary": "山东博兴县从土地撂荒到产业红火。"
+     },
+     {
+      "title": "【半月谈·今日谈】青年求职观悄然重塑",
+      "url": "http://www.banyuetan.org/jrt/detail/20260827/1000200033134991787794049717431102_1.html",
+      "date": "2026-08-27",
+      "region": "全国",
+      "meta": {
+       "shenlun": "就业优先·结构性就业矛盾·青年就业观",
+       "business": "职业规划咨询、校企对接服务"
+      },
+      "star": 1,
+      "summary": "结构性错配、认知错位、供需脱节三重问题交织。"
+     },
+     {
+      "title": "【半月谈·今日谈】重点工程为何成了半拉子工程",
+      "url": "http://www.banyuetan.org/jrt/detail/20260825/1000200033139211787622485511350004_1.html",
+      "date": "2026-08-25",
+      "region": "全国",
+      "meta": {
+       "shenlun": "政绩观·科学决策·防范化解重大风险",
+       "business": "项目可行性研究、第三方评估"
+      },
+      "star": 1,
+      "summary": "剖析项目决策脱离实际、违背规律导致乱象。"
+     },
+     {
+      "title": "【半月谈·时政讲解】加力推动常态化帮扶 扎实推进乡村全面振兴——来自全国人大常委会专题询问现场的声音",
+      "url": "http://www.banyuetan.org/szjj/detail/20260828/1000200033135991787884745742404764_1.html",
+      "date": "2026-08-28",
+      "region": "全国",
+      "meta": {
+       "shenlun": "巩固拓展脱贫攻坚成果·常态化帮扶·人大监督",
+       "business": "防返贫监测服务、产业帮扶项目运营"
+      },
+      "star": 1,
+      "summary": "十四届全国人大常委会第二十四次会议联组会议专题询问。"
+     },
+     {
+      "title": "【半月谈·时政讲解】中央组织部负责人就修订颁布《党政领导干部生态环境损害责任追究办法》答记者问",
+      "url": "http://www.banyuetan.org/szjj/detail/20260826/1000200033135991787706173639406322_1.html",
+      "date": "2026-08-26",
+      "region": "全国",
+      "meta": {
+       "shenlun": "生态文明·党政同责·终身追责",
+       "business": "环保合规咨询、生态环境损害鉴定评估"
+      },
+      "star": 1,
+      "summary": "中办印发新修订的生态损害责任追究办法。"
+     },
+     {
+      "title": "【半月谈·地方观察】赵步长：一位共产党员的本色与坚守",
+      "url": "http://www.banyuetan.org/dfgc/detail/20260901/1000200033136151788229627251445842_1.html",
+      "date": "2026-09-01",
+      "region": "全国",
+      "meta": {
+       "shenlun": "先进典型·企业家精神",
+       "business": "低"
+      },
+      "summary": "先进典型人物报道。"
+     },
+     {
+      "title": "【半月谈·地方观察】从管不过来到管得贴心——临沂市兰山区超大街道治理改革的破题之道",
+      "url": "http://www.banyuetan.org/dfgc/detail/20260827/1000200033136151787814733014442955_1.html",
+      "date": "2026-08-27",
+      "region": "全国",
+      "meta": {
+       "shenlun": "基层治理现代化·街道管理体制改革",
+       "business": "智慧街区系统与网格化治理平台"
+      },
+      "star": 1,
+      "summary": "超大街道治理改革案例。"
+     }
+    ]
+   },
+   "新华网评": {
+    "items": [
+     {
+      "title": "【新华网评·蒸蒸日上的中国】绿色奇迹，生长在治沙人的坚守里",
+      "url": "https://www.news.cn/comments/20260825/1a7dc5baa3ce404096893454ae8be703/c.html",
+      "date": "2026-08-25",
+      "region": "全国",
+      "meta": {
+       "shenlun": "生态文明·塞罕坝精神·久久为功",
+       "business": "防沙治沙工程、沙产业（肉苁蓉等药材种植）"
+      },
+      "star": 1,
+      "summary": "治沙人与绿色奇迹。"
+     }
+    ]
+   },
+   "公众号·加油考公人-AI版": {
+    "items": [
+     {
+      "title": "【考公晨读】2026年09月01日·申论+行测+时政",
+      "url": "https://wx.sogou.com/weixin?type=2&query=考公晨读",
+      "date": "2026-09-02",
+      "region": "全国"
+     }
+    ]
+   },
+   "求是网": {
+    "items": [
+     {
+      "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
+      "url": "https://www.qstheory.cn/20260901/ecb790312cdc48d6bc4eca0bd501687b/c.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "党的创新理论体系化学理化·申论政治素养必背"
+      },
+      "summary": ""
+     },
+     {
+      "title": "体系化学理化研究阐释",
+      "url": "https://www.qstheory.cn/v9zhuanqu/zhuanqu/qsxlyj/index.htm",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "党的创新理论体系化学理化·申论政治素养必背"
+      },
+      "summary": ""
+     }
+    ]
+   },
+   "人民网·理论": {
+    "items": [
+     {
+      "title": "中共中央党史和文献研究院",
+      "url": "http://www.dswxyjy.org.cn/",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "理论阐释·党建研究"
+      },
+      "summary": ""
+     },
+     {
+      "title": "中共中央党校（国家行政学院）",
+      "url": "https://www.ccps.gov.cn/",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "理论阐释·党建研究"
+      },
+      "summary": ""
+     },
+     {
+      "title": "“12380”举报网",
+      "url": "http://www.12380.gov.cn/index.html",
+      "date": "2026-09-02",
+      "region": "全国",
+      "meta": {
+       "shenlun": "理论阐释·党建研究"
+      },
+      "summary": ""
+     }
+    ]
+   }
+  }
+ }
+}
