@@ -1,5 +1,5 @@
 /* 亳州考公·创业情报站 · Service Worker：资源离线缓存，数据每次联网刷新 */
-var CACHE = 'bz-intel-v3';
+var CACHE = 'bz-intel-v4';
 var ASSETS = ['./','./index.html','./login.html','./app.css','./app.js','./data.js','./manifest.json','./icon-192.png'];
 self.addEventListener('install', function(e){
   e.waitUntil(caches.open(CACHE).then(function(c){ return c.addAll(ASSETS); }).then(function(){ return self.skipWaiting(); }));
